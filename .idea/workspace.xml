@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be929e52-270c-4171-a064-bbe3d47c075d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
@@ -158,7 +157,7 @@
       <updated>1605869685573</updated>
       <workItem from="1605869687568" duration="157000" />
       <workItem from="1605870506146" duration="1770000" />
-      <workItem from="1605879487527" duration="869000" />
+      <workItem from="1605879487527" duration="1387000" />
     </task>
     <servers />
   </component>
